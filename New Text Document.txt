@@ -1,0 +1,32 @@
+
+pvm
+python virtual mission
+
+constructor
+
+destructor
+gc---> garbage collector
+|
+-----
+ | ------------>gc------->destructor
+-------
+|   |
+
+constructor | destructor
+
+__init__
+initialise
+just after
+object creation
+
+__del__
+clean up activities
+just before destroying obj.
+
+
+
+relationship 
+1) has-a------> composition
+2)is-a---------> inheritence
+
+
